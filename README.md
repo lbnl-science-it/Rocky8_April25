@@ -1,24 +1,26 @@
-# Material for HPC Services Lawrencium Supercluster training held on 21st June 2023
-This training introduces users to HPC services provided on the Lab’s institutional cluster Lawrencium. The training is designed to cover topics useful for new users to get acquainted with the Lawrencium supercluster. The training is also beneficial for advanced users for refreshing forgotten concepts. The training is conducted virtually and video recording can be accessed on this page.  
+# Material for HPC Services Lawrencium Supercluster training held on 25st April 2024
+This virtual training familarizes users with the new Rocky-8 operating system environment. The Rocky-8 testbed has been made available to users on CPU and GPU partitions so that users can compile and test their codes or use the existing applications for their scientific workflow. This is a great opportunity to learn about the new OS environment and ask questions so you are prepared for the upcoming system-wide OS migration which will happen on June 27th 2024. Rocky-8 documentation is available [here](https://it.lbl.gov/resource/hpc/for-users/hpc-documentation/rocky8/). For slides click [here](https://docs.google.com/presentation/d/e/2PACX-1vSleKs875JlyNz0J_S8MFVW2eYHg88BArO_gGSxyvm9o6XNxsiq587FBkvpoeXcLu1quMrh26EX_zLr/pub?start=false&loop=false&delayms=3000)
 
-Click [here](http://htmlpreview.github.io/?https://github.com/lbnl-science-it/LRC_services_June21/blob/main/slides.html) to view slides.
+Here are the primary objectives of the training:
 
-In this training, we will give an overview of the Lawrencium supercluster with mostly hands-on sessions. Here are the primary objectives of the training:
-     
-     *   Overview of Lawrencium Supercluster
-     *   MyLRC Portal : for account/project management
-     *   Open OnDemand Portal : for GUI applications
-     *   Globus : for fast data transfer and sharing 	
-     *   Software Module Farm : software packages available for researchers
-     *   Slurm Job Scheduling : submitting and monitoring jobs
-     
-Date: Wednesday, June 21, 2023
-Time: 10:30PM – 12:00PM
+* Getting account and login
+* Cluster Environment
+* Module Overview 
+* Software Stack
+     - Compilers and Libraries
+     - Python, R and other languages
+     - Tools and apps
+* Building Packages
+
+Date: Friday, April 25 ,  2024
+Time:  1:00 PM - 2.30 PM
+
+Prerequisite: A user account is preferred but not required.
+If you are interested in having an account on the Lawrencium supercluster, please visit [our documentation] (https://it.lbl.gov/service/scienceit/) for guidelines.
 
 Please contact us at hpcshelp@lbl.gov if you have any questions.
 
 ----------------------------------------------------------------------------------------------
 This repository contains slides for this training. The video recording of the training can be access [here](https://it.lbl.gov/resource/hpc/for-users/training-and-tutorials/.). 
 
-The slides are made using Marpit markdown slide deck framework and converted to HTML format using prebuild export slide deck tool in VSCode.
 
